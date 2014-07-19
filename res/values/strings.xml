@@ -6,6 +6,14 @@
     <string name="usuario">Usuário:</string>
     <string name="senha">Senha:</string>
     <string name="entrar">Entrar</string>
+    <string name="erro_autenticacao">Usuário ou senha inválidos!</string>
     <!-- / TELA DE LOGIN -->
+    
+    <!-- TELA DE DASHBOARD -->
+    <string name="novo_gasto">Novo gasto</string>
+    <string name="nova_viagem">Nova viagem</string>
+    <string name="minhas_viagens">Minhas viagens</string>
+    <string name="configuracoes">Configurações</string>
+    <!-- / TELA DE DASHBOARD -->
 
 </resources>
